@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 📲 I'm working at Halkbank as a junior Android Developer. --> My LinkedIn Account<br>👩🏼‍💻 I graduated from Fırat University as an Electrical and Electronics Engineer. --> <br>🌱 I’m currently learning Kotlin / Jetpack Compose.<br>🌱 I’m also interested singing / play enstrument / archery.<br>📫 How to reach me: muhammetbugraarslan@icloud.com<br>⚡ Fun fact: I'm also a Streamer! --> https://linktr.ee/nerresir
+🔭 📲 I'm working at Halkbank as a junior Android Developer. <br>👩🏼‍💻 I graduated from Fırat University as an Electrical and Electronics Engineer.<br>🌱 I’m currently learning Kotlin / Jetpack Compose.<br>🌱 I’m also interested singing / play enstrument / archery.<br>📫 How to reach me: muhammetbugraarslan@icloud.com<br>⚡ Fun fact: I'm also a Streamer! --> https://linktr.ee/nerresir
 
 
 ## 🌐 Socials:
